@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/waa-final-project-frontend/static/css/main.073c9b0a.css",
+    "main.js": "/waa-final-project-frontend/static/js/main.085ef66d.js",
+    "static/js/787.267d6f4b.chunk.js": "/waa-final-project-frontend/static/js/787.267d6f4b.chunk.js",
+    "index.html": "/waa-final-project-frontend/index.html",
+    "main.073c9b0a.css.map": "/waa-final-project-frontend/static/css/main.073c9b0a.css.map",
+    "main.085ef66d.js.map": "/waa-final-project-frontend/static/js/main.085ef66d.js.map",
+    "787.267d6f4b.chunk.js.map": "/waa-final-project-frontend/static/js/787.267d6f4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.085ef66d.js"
+  ]
+}
