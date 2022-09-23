@@ -4,7 +4,7 @@ import RoutesWrapper from "./components/RoutesWrapper";
 function App() {
   return (
     <div>
-      <RoutesWrapper></RoutesWrapper>
+      <RoutesWrapper />
     </div>
   );
 }
